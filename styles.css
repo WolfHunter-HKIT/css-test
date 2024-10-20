@@ -1,0 +1,34 @@
+* {
+  box-sizing: border-box;
+}
+
+header {
+  background-image: url(./images/pexels-jess-vide-4612307.jpg);
+  background-size: cover;
+  background-position: 50% 75%;
+}
+
+main .heading1 h2 {
+  text-align: center;
+}
+main .heading1 .carousel img {
+  width: 100%;
+  height: 40vw;
+  background-size: contain;
+}
+main .heading2 h2,
+main .heading3 h2 {
+  text-align: center;
+}
+main .heading2 img,
+main .heading3 img {
+  width: 100%;
+  height: 200px;
+}
+main .accordion button {
+  color: rgb(0, 92, 179);
+}
+
+footer {
+  max-width: none !important;
+}/*# sourceMappingURL=styles.css.map */
